@@ -2,16 +2,16 @@
   {
     "title": "Peer Tutoring Program",
     "description": "We pair you with a native Chinese speaker for practice.",
-    "image": "images/features/tutoring.png"
+    "image": "images/features/tutoring.PNG"
   },
   {
     "title": "Chinese Conversation Table",
     "description": "Come chat in the Union basement Fridays at 7pm!",
-    "image": "images/features/table.png"
+    "image": "images/features/table.PNG"
   },
   {
     "title": "Social and Cultural Events",
     "description": "Join our fun cultural meetings and learn something new!",
-    "image": "images/features/culture.png"
+    "image": "images/features/culture.PNG"
   }
 ]
