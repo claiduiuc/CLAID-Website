@@ -1,9 +1,9 @@
 ---
 title: 'Peter Zukerman'
 image: '/images/team/peter.jpg'
-jobtitle: 'Accountant'
+jobtitle: 'Head of Tutoring Branch'
 email: 'sage@test.com'
 linkedinurl: ''
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Senior studying Computer Science + Linguistics. Enjoys learning languages, juggling, and origami.
