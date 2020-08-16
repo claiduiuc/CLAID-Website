@@ -3,11 +3,15 @@ title: 'Peer Tutoring Program'
 image: '/services/noun_591323.png'
 ---
 
-Work one-on-one with a tutor to strengthen your Chinese language skills, learn more about Chinese culture, or even to make new friends.
+Work one-on-one with a tutor to strengthen your Chinese language skills.
 
 ## How it Works
 
-Both learners and tutors will be interviewed in order to pair learners with a tutor that best match with their Chinese Levels. Pairs will meet with each other at least once a week, for at least an hour each time.
+We pair tutors and learners together after a short interview. Meet with your partner on your own time, as much as you like.
+
+## What's it Like?
+
+Material covered in the sessions is entirely up to you and your tutor! Past pairs have studied textbooks, watched movies or shows, and consumed native material. Or just chat!
 
 
 ## Getting Started

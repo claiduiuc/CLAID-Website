@@ -8,7 +8,7 @@ bodyClass: page-services-list
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Services that grow with your business</h1>
+        <h1>Get Involved</h1>
         <p>
           CLAID offers one-on-one peer tutoring with other students, 
           weekly conversation tables, and social and cultural events.
@@ -27,7 +27,7 @@ bodyClass: page-services-list
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 100 }}
+          {{ service.content | markdownify | strip_html | truncate: 75 }}
         </div>
       </div>
     </div>
