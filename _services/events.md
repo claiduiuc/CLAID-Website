@@ -3,7 +3,7 @@ title: "Events"
 image: "/services/default.png"
 ---
 
-Learn more about Chinese culture and meet new friends at our social and cultural events!
+Learn more about Chinese culture and meet new friends at our fun events!
 
 ## Ne verba patulosque numen vix libet
 
