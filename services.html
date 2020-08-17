@@ -27,7 +27,7 @@ bodyClass: page-services-list
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 75 }}
+          {{ service.content | markdownify | strip_html | truncate: 72, "" }}
         </div>
       </div>
     </div>
