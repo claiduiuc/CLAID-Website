@@ -18,6 +18,6 @@ Material covered in the sessions is entirely up to you and your tutor! Past pair
 
 To become a learner or a tutor, click on the corresponding link below to fill out an application
 
-- [Learner Application](google.com)
-- Tutor Application
+- [Learner Application]({% link _services/learner-application.html %})
+- [Tutor Application]({% link _services/tutor-application.html %})
 
