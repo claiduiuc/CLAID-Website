@@ -1,5 +1,5 @@
 ---
-title: "Mergers"
+title: "Events"
 image: "/services/default.png"
 ---
 
