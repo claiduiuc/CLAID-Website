@@ -1,7 +1,7 @@
 ---
 title: 'You Shen'
 image: '/images/team/youshen.jpg'
-jobtitle: 'Social and Tutoring Branch'
+jobtitle: 'Social Chair and Tutoring Branch'
 email: 'sage@test.com'
 linkedinurl: ''
 ---

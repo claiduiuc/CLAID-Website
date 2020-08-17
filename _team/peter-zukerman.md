@@ -1,7 +1,7 @@
 ---
 title: 'Peter Zukerman'
 image: '/images/team/peter.jpg'
-jobtitle: 'Head of Tutoring Branch'
+jobtitle: 'Tutoring Chair'
 email: 'sage@test.com'
 linkedinurl: ''
 ---
