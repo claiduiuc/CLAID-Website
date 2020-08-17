@@ -9,7 +9,7 @@ Work one-on-one with a tutor to strengthen your Chinese language skills.
 
 We pair tutors and learners together after a short interview. Meet with your partner on your own time, as much as you like.
 
-## What's it Like?
+## The Experience
 
 Material covered in the sessions is entirely up to you and your tutor! Past pairs have studied textbooks, watched movies or shows, and consumed native material. Or just chat!
 

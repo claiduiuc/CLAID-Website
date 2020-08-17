@@ -7,7 +7,7 @@ bodyClass: page-services-list
 <div class="intro">
   <div class="container">
     <div class="row">
-      <div class="col-12">
+      <div class="col-10">
         <h1>Get Involved</h1>
         <p>
           CLAID offers one-on-one peer tutoring with other students, 
@@ -18,6 +18,9 @@ bodyClass: page-services-list
   </div>
 </div>
 
+<br>
+<br>
+
 <div class="container pb-6">
   <div class="row">
     {% for service in site.services %}
@@ -27,7 +30,7 @@ bodyClass: page-services-list
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 75 }}
+          {{ service.content | markdownify | strip_html | truncate: 72, "" }}
         </div>
       </div>
     </div>
