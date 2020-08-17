@@ -3,9 +3,7 @@ title: "Events"
 image: "/services/default.png"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Learn more about Chinese culture and meet new friends at our social and cultural events!
 
 ## Ne verba patulosque numen vix libet
 
