@@ -1,6 +1,6 @@
 ---
 title: 'Chinese Corner'
-image: '/services/default.png'
+image: 'C:\Users\GWC-CHC-07\.vscode\CLAID-Website\images\services\chinese_corner_logo.png'
 ---
 
 Bolster your Chinese conversational skills at our weekly language table!
@@ -12,3 +12,5 @@ Meet with other CLAID members every week to discuss different real-world topics.
 ## Getting Started
 
 Chinese Corner meets every Friday evening at 7pm in the basement of Illini Union, near the Qdoba.
+
+<!-- /services/default.png -->
