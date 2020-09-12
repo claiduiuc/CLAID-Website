@@ -5,17 +5,19 @@ image: "/services/default.png"
 
 Learn more about Chinese culture and meet new friends at our fun events!
 
-## Social Events
+## __Social Events__
 
 Get to know other CLAID members at our social events!
 
 - Study sessions
 - Movie nights
 - Game nights
-    
-    *...And more!*
 
+    *…And more!*
+
+<span style="text-decoration: underline"> 
 **Upcoming Events**
+ </span>
 
 - **Mon-Thurs 7-11pm: Study Session on Discord**
 	- Study with our Social Chair You Shen in our study-sesh voice channel on Discord! Get to know You, meet new friends, or find some study buddies.
@@ -27,7 +29,7 @@ Get to know other CLAID members at our social events!
 	- Celebrate The Mid-Autumn Festival with us! Make mooncakes together if you're on campus!
 
 
-## Cultural Events
+## __Cultural Events__
 
 Explore different aspects of Chinese culture at our cultural events!
 
@@ -37,7 +39,9 @@ Explore different aspects of Chinese culture at our cultural events!
     
     *...And more!*
 
+<span style="text-decoration: underline"> 
 **Upcoming Events**
+ </span>
 
-- **Friday, October 2, 5pm: Mid-Autumn Festival**
+- **Friday, October 2, 7pm: Mid-Autumn Festival**
     - Come join us for our biggest cultural event of the year! We'll be celebrating this Chinese holiday over Zoom and (if conditions allow) in-person while socially distancing.
