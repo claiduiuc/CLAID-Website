@@ -3,11 +3,28 @@ title: Team
 layout: default
 bodyClass: page-team-list
 ---
+<style type="text/css">
+  .mycol {
+  width: 50%;
+  padding: 0px;
+  float: right;
+  margin:0px;
+  }
+
+  .intro h1 { color: #db505e; font-size: 2.4rem; line-height: 1.2; font-family: "Comfortaa", Comfortaa, sans-serif, -apple-system; width: 70%; }
+  @media (min-width: 576px) { .intro h1 { width: 70%; } }
+  @media (min-width: 768px) { .intro h1 { font-size: 3rem; width: 70%; } }
+  @media (min-width: 992px) { .intro h1 { font-size: 3rem; width: 80%; } }
+  .intro p { width: 80%; font-size: 1.1rem; font-weight: lighter; line-height: 1.4; color: #414156; }
+  @media (min-width: 576px) { .intro p { width: 70%; } }
+  @media (min-width: 768px) { .intro p { width: 60%; } }
+  @media (min-width: 992px) { .intro p { width: 70%; } }
+  </style>
 
 <div class="intro">
   <div class="container">
     <div class="row">
-      <div class="col-12">
+      <div class="mycol">
         <h1>Meet The Board</h1>
         <p>
           We're students that are committed and passionate about building connections.
@@ -17,6 +34,11 @@ bodyClass: page-team-list
             here</a> to apply.
         </p>
       </div>
+
+      <div class="mycol">
+        <img alt="CLAID logo" src="/images/team/group-photo.png" style="width: 600px;"/>
+      </div>
+
     </div>
   </div>
 </div>

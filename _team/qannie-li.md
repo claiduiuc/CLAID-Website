@@ -1,7 +1,7 @@
 ---
 title: 'Annie Li'
 image: '/images/team/annie.jpg'
-jobtitle: 'Cultural Branch'
+jobtitle: 'Cultural Chair'
 email: 'sage@test.com'
 linkedinurl: ''
 ---
