@@ -5,12 +5,15 @@ image: 'C:\Users\GWC-CHC-07\.vscode\CLAID-Website\images\services\chinese_corner
 
 Bolster your Chinese conversational skills at our weekly language table!
 
+<img src="/images/services/chinese-corner.png" alt="chinese corner" width="500"/>
+
+
 ## How it Works
 
 Meet with other CLAID members every week to discuss different real-world topics. The language table is split into beginner, intermediate, and advanced sections, so all levels of Chinese speakers are welcome! Chinese Corner provides students with the opportunity to practice language skills and broaden their cultural understanding.
 
 ## Getting Started
 
-Chinese Corner meets every Friday evening at 7pm in the basement of Illini Union, near the Qdoba.
+Chinese Corner meets every Thursday evening at 6:30 pm (CST) on Discord!
 
 <!-- /services/default.png -->
