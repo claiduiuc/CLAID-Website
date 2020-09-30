@@ -41,7 +41,7 @@ Explore different aspects of Chinese culture at our cultural events!
  </span>
 
 - **Friday October 2, 7pm CST: Mid-Autumn Festival**
-    - Come join us for our biggest cultural event of the year! We'll be celebrating this Chinese holiday over **Zoom(link TBA)** and in-person while socially distancing at **Lincoln Hall Rm 1092**.
+    - Come join us for our biggest cultural event of the year! We'll be celebrating this Chinese holiday over **Zoom (link TBA)** and in-person while socially distancing at **Lincoln Hall Rm 1092**.
 
     ![Mid-Autumn Festival Poster](/images/services/mid-autumn-festival.png){: style="width:500px"}
 
