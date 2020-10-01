@@ -41,7 +41,12 @@ Explore different aspects of Chinese culture at our cultural events!
  </span>
 
 - **Friday October 2, 7pm CST: Mid-Autumn Festival**
-    - Come join us for our biggest cultural event of the year! We'll be celebrating this Chinese holiday over **Zoom (link TBA)** and in-person while socially distancing at **Lincoln Hall Rm 1092**.
+    - Come join us for our biggest cultural event of the year! We'll be celebrating this Chinese holiday over **Zoom (link below)** and in-person while socially distancing at **Lincoln Hall Rm 1092**.
+
+    - Zoom link: <https://illinois.zoom.us/j/85965250431?pwd=dEhid3MySXBVRmdYbk5IZFY0aUFJQT09>
+
+    - Meeting ID: 859 6525 0431
+    - Password: CLAID
 
     ![Mid-Autumn Festival Poster](/images/services/mid-autumn-festival.png){: style="width:500px"}
 
