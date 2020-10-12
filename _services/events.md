@@ -39,8 +39,8 @@ Explore different aspects of Chinese culture at our cultural events!
 - **Friday October 30, 7pm CST: Peek Into China: Cultural Regions**
     - Explore the different cultural regions of China and discover each of their unique characteristics.
 
-- **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber (紅樓夢)**
-    - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber.
+- **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber**
+    - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢).
 
 - **Friday December 4, 8pm CST: Traditional Chinese Calligraphy**
     - Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! We plan to invite students from the Calligraphy club at Peking University over **Zoom** to do a live demonstration of Traditional Chinese Calligraphy using brushes, ink, and Xuan paper. Pick up your own calligraphy kit before Thanksgiving break(more information TBA)  to follow the demonstrations and try calligraphy yourself!
