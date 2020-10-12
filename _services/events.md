@@ -22,10 +22,6 @@ Get to know other CLAID members at our social events!
 - **Mon-Thurs 7-11pm: Study Session on Discord**
 	- Study with our Social Chair You Shen in our study-sesh voice channel on Discord! Get to know You, meet new friends, or find some study buddies.
 
-- **Date TBA: MOONCAKE EVENTS!**
-	- Celebrate The Mid-Autumn Festival with us! Make mooncakes together if you're on campus!
-
-
 ## __Cultural Events__
 
 Explore different aspects of Chinese culture at our cultural events!
@@ -40,15 +36,11 @@ Explore different aspects of Chinese culture at our cultural events!
 **Upcoming Events**
  </span>
 
-- **Friday October 2, 7pm CST: Mid-Autumn Festival**
-    - Come join us for our biggest cultural event of the year! We'll be celebrating this Chinese holiday over **Zoom (link below)** and in-person while socially distancing at **Lincoln Hall Rm 1092**.
+- **Friday October 30, 7pm CST: Peek Into China: Cultural Regions**
+    - Explore the different cultural regions of China and discover each of their unique characteristics.
 
-    - Zoom link: <https://illinois.zoom.us/j/85965250431?pwd=dEhid3MySXBVRmdYbk5IZFY0aUFJQT09>
+- **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber (紅樓夢)**
+    - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber.
 
-    - Meeting ID: 859 6525 0431
-    - Password: CLAID
-
-    ![Mid-Autumn Festival Poster](/images/services/mid-autumn-festival.png){: style="width:500px"}
-
-- **Mooncake Fundraiser**
-    - We are also holding a mooncake fundraiser! You can pre-order mooncakes from us by filling out [this form]({% link _services/mooncake-preorder.html %}) by **Thursday October 1 at noon**. You can pick them up at our Mid-Autumn Festival Event if you choose to come in person, or we can have them delivered to you on campus for an extra fee.
+- **Friday December 4, 8pm CST: Traditional Chinese Calligraphy**
+    - Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! We plan to invite students from the Calligraphy club at Peking University over **Zoom** to do a live demonstration of Traditional Chinese Calligraphy using brushes, ink, and Xuan paper. Pick up your own calligraphy kit before Thanksgiving break(more information TBA)  to follow the demonstrations and try calligraphy yourself!
