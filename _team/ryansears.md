@@ -1,6 +1,6 @@
 ---
-title: 'Ryan Jin'
-image: '/images/team/ryanjin.jpg'
+title: 'Ryan Sears'
+image: '/images/team/ryansears.jpg'
 jobtitle: 'Cultural Branch and Treasurer'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
