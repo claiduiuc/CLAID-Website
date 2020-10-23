@@ -19,9 +19,6 @@ Get to know other CLAID members at our social events!
 **Upcoming Events**
  </span>
 
-- **Saturday October 17, 1-2pm CST: Learner Game Event: Among Us** 
-    - CLAID learners, join CLAID in playing Among Us, and get to know your fellow learners!
-
 - **Mon-Thurs 7-11pm: Study Session on Discord**
 	- Study with our Social Chair You Shen in our study-sesh voice channel on Discord! Get to know You, meet new friends, or find some study buddies.
 
