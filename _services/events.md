@@ -21,6 +21,7 @@ Get to know other CLAID members at our social events!
 
 - **Mon-Thurs 7-11pm: Study Session on Discord**
 	- Study with our Social Chair You Shen in our study-sesh voice channel on Discord! Get to know You, meet new friends, or find some study buddies.
+   <img src="/images/services/study-session.png" alt="Study Session" width="300"/>
 
 ## __Cultural Events__
 
@@ -37,7 +38,13 @@ Explore different aspects of Chinese culture at our cultural events!
  </span>
 
 - **Friday October 30, 7pm CST: Peek Into China: Cultural Regions**
-    - Explore the different cultural regions of China and discover each of their unique characteristics.
+    - Explore the different cultural regions of China and discover each of their unique characteristics. Join us in person at **Noyes 100** while socially distancing, or online through **Zoom (info below)**. If you come in person, be sure to bring a mask and your Safer Illinois App.
+
+    - Zoom link: <https://illinois.zoom.us/j/82582189747?pwd=dkpySlpINDB5WGloUmxoeWE4S21rUT09>
+    - Meeting ID: 825 8218 9747
+    - Password: CLAID
+
+        <img src="/images/services/peek_into_china_cultural_regions_1.png" alt="Peek into China" width="500"/>
 
 - **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber**
     - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢).
