@@ -38,8 +38,7 @@ Explore different aspects of Chinese culture at our cultural events!
  </span>
 
 - **Friday October 30, 7pm CST: Peek Into China: Cultural Regions**
-    - Explore the different cultural regions of China and discover each of their unique characteristics. Join us in person at **Noyes 100** while socially distancing, or online through **Zoom (info below)**. If you come in person, be sure to bring a mask and your Safer Illinois App.
-
+    - Explore the different cultural regions of China and discover each of their unique characteristics. Join us online through **Zoom (info below)**!
     - Zoom link: <https://illinois.zoom.us/j/82582189747?pwd=dkpySlpINDB5WGloUmxoeWE4S21rUT09>
     - Meeting ID: 825 8218 9747
     - Password: CLAID
