@@ -64,7 +64,7 @@ Explore different aspects of Chinese culture at our cultural events!
     - Meeting ID: 812 5745 3898
     - Password: CLAID
 
-        <img src="/images/services/Dream_of_the_Red_Chamber.png" alt="Dream of the Red Chamber" width="500"/>
+        <img src="/images/services/Dream_of_the_Red_Chamber.png" id="div-desktop" alt="Dream of the Red Chamber" width="500"/>
 
 - **Friday December 4, 8pm CST: Traditional Chinese Calligraphy**
     - Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! We plan to invite students from the Calligraphy club at Peking University over **Zoom** to do a live demonstration of Traditional Chinese Calligraphy using brushes, ink, and Xuan paper. Pick up your own calligraphy kit before Thanksgiving break(more information TBA)  to follow the demonstrations and try calligraphy yourself!
