@@ -37,16 +37,14 @@ Explore different aspects of Chinese culture at our cultural events!
 **Upcoming Events**
  </span>
 
-- **Friday October 30, 7pm CST: Peek Into China: Cultural Regions**
-    - Explore the different cultural regions of China and discover each of their unique characteristics. Join us online through **Zoom (info below)**!
-    - Zoom link: <https://illinois.zoom.us/j/82582189747?pwd=dkpySlpINDB5WGloUmxoeWE4S21rUT09>
-    - Meeting ID: 825 8218 9747
+- **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber**
+    - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢)! Explore some major themes of the novel and enjoy a brief live performance, presented by members of CLAID. No prior knowledge of the novel needed! Join us in-person while socially distanced at **Bevier Hall, Rm 132** or online through **Zoom (info below)**. Please **RSVP** for this event [here]({% link _services/literature-event-rsvp.html %}).
+    
+    - Zoom link: <https://illinois.zoom.us/j/81257453898?pwd=bytueng1MGtQZkQvNCtrWDgyTDFwQT09>
+    - Meeting ID: 812 5745 3898
     - Password: CLAID
 
-        <img src="/images/services/peek_into_china_cultural_regions_1.png" alt="Peek into China" width="500"/>
-
-- **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber**
-    - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢).
+        <img src="/images/services/Dream_of_the_Red_Chamber.png" alt="Dream of the Red Chamber" width="500"/>
 
 - **Friday December 4, 8pm CST: Traditional Chinese Calligraphy**
     - Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! We plan to invite students from the Calligraphy club at Peking University over **Zoom** to do a live demonstration of Traditional Chinese Calligraphy using brushes, ink, and Xuan paper. Pick up your own calligraphy kit before Thanksgiving break(more information TBA)  to follow the demonstrations and try calligraphy yourself!
