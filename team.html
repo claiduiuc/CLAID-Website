@@ -4,12 +4,26 @@ layout: default
 bodyClass: page-team-list
 ---
 <style type="text/css">
-  .mycol {
-  width: 50%;
-  padding: 0px;
-  float: right;
-  margin:0px;
+
+#div-desktop {
+  display: none;
+}
+
+
+
+@media screen and (min-width: 800px) {
+  #div-mobile {
+    display: none;
   }
+  #div-desktop {
+    display: block;
+    width: 75%;
+    padding: 0px;
+    float: left;
+    margin:0px;
+  }
+}
+    
 
   .intro h1 { color: #db505e; font-size: 2.4rem; line-height: 1.2; font-family: "Comfortaa", Comfortaa, sans-serif, -apple-system; width: 70%; }
   @media (min-width: 576px) { .intro h1 { width: 70%; } }
@@ -33,10 +47,11 @@ bodyClass: page-team-list
           Board applications are now open! Click <a href="board-application.html">
             here</a> to apply.
         </p>
+        
       </div>
 
-      <div class="mycol">
-        <img alt="CLAID logo" src="/images/team/group-photo.png" style="width: 600px;"/>
+      <div id="div-desktop">
+        <img alt="group photo" src="/images/team/group-photo.png"/>
       </div>
 
     </div>

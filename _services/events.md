@@ -19,9 +19,29 @@ Get to know other CLAID members at our social events!
 **Upcoming Events**
  </span>
 
+<style>
+#div-desktop {
+  display: none;
+}
+
+
+
+@media screen and (min-width: 800px) {
+  #div-mobile {
+    display: none;
+  }
+  #div-desktop {
+    display: block;
+    width: 75%;
+    padding: 0px;
+    float: right;
+    margin:0px;
+  }
+}
+</style>
 - **Mon-Thurs 7-11pm: Study Session on Discord**
 	- Study with our Social Chair You Shen in our study-sesh voice channel on Discord! Get to know You, meet new friends, or find some study buddies.
-   <img src="/images/services/study-session.png" alt="Study Session" width="300"/>
+   <img src="/images/services/study-session.png" id="div-desktop" alt="Study Session" width="300"/>
 
 ## __Cultural Events__
 
@@ -44,7 +64,7 @@ Explore different aspects of Chinese culture at our cultural events!
     - Meeting ID: 825 8218 9747
     - Password: CLAID
 
-        <img src="/images/services/peek_into_china_cultural_regions_1.png" alt="Peek into China" width="500"/>
+        <img src="/images/services/peek_into_china_cultural_regions_1.png" id="div-desktop" alt="Peek into China" width="500"/>
 
 - **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber**
     - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢).
