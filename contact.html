@@ -4,10 +4,30 @@ layout: default
 bodyClass: page-contact
 ---
 
+<style>
+  @media screen and (max-width: 800px) {
+    #div-desktop-text {
+      padding-left:20px;
+      padding-right:20px;
+    }
+    #div-discord {
+    width: 100%;
+    }
+  }
+
+  
+  @media screen and (min-width: 800px) {
+    #div-discord {
+      width:1200px;
+      height:600px
+    }
+  }
+</style>
+
 <div class="intro intro-small">
   <div class="container">
     <div class="row">
-      <div class="col-12">
+      <div class="col-12" id="div-desktop-text">
         <h1>Connect with Us</h1>
       </div>
     </div>
@@ -24,7 +44,7 @@ bodyClass: page-contact
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8" id="div-desktop-text">
       <ul>
         <li><strong>Sign up for our </strong> <a href="http://eepurl.com/dGhEzL">mailing list </a> </li>
 
@@ -74,7 +94,7 @@ bodyClass: page-contact
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8" id="div-desktop-text">
       <ul>
         <li><strong>Email us @: </strong><a href="mailto:{{ site.data.contact.email }}">
             {{ site.data.contact.email }}</a></li>
@@ -87,7 +107,7 @@ bodyClass: page-contact
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8" id="div-desktop-text">
       <ul>
         <li><strong>Keep up with us on: </strong> <br><a href="https://www.instagram.com/claiduiuc/">
             Instagram</a></li>
@@ -100,7 +120,7 @@ bodyClass: page-contact
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8" id="div-desktop-text">
       <ul>
         <li><strong>Join Discord: </strong></li>
       </ul>
@@ -109,13 +129,12 @@ bodyClass: page-contact
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8" id="div-desktop-text">
       <ul>
         <widgetbot
   server="688492971707990204"
   channel="688494662062964741"
-  width="1200"
-  height="600"
+  id="div-discord"
 ></widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
       </ul>
