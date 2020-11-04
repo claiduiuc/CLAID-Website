@@ -3,6 +3,9 @@
   background-repeat: no-repeat;
   background-size: 80%;
   background-position: right center;
+  @media screen and (max-width: 800px) {
+    background-position-y: 20px;
+  }
   @include media-breakpoint-up(sm) {
     background-size: 90%;
     background-position: 159px -40px;
