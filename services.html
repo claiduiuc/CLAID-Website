@@ -3,9 +3,17 @@ title: Services
 layout: default
 bodyClass: page-services-list
 ---
+<style>
+  @media screen and (max-width: 800px) {
+    #div-desktop {
+      padding-left:20px;
+      padding-right:20px;
+    }
+  }
+</style>
 
 <div class="intro">
-  <div class="container">
+  <div class="container" id="div-desktop">
     <div class="row">
       <div class="col-10">
         <h1>Get Involved</h1>
@@ -21,7 +29,7 @@ bodyClass: page-services-list
 <br>
 <br>
 
-<div class="container pb-6">
+<div class="container pb-6" id="div-desktop">
   <div class="row">
     {% for service in site.services %}
     <div class="col-12 col-md-4 mb-1">

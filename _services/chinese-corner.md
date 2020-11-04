@@ -2,11 +2,17 @@
 title: 'Chinese Corner'
 image: 'C:\Users\GWC-CHC-07\.vscode\CLAID-Website\images\services\chinese_corner_logo.png'
 ---
+<style>
+  @media screen and (max-width: 800px) {
+    #div-desktop {
+      width:100%;
+    }
+  }
+</style>
 
 Bolster your Chinese conversational skills at our weekly language table!
 
-<img src="/images/services/chinese-corner.png" alt="chinese corner" width="500"/>
-
+<img src="/images/services/chinese-corner.png" alt="chinese corner" id="div-desktop" width="500"/>
 
 ## How it Works
 
@@ -16,7 +22,7 @@ Meet with other CLAID members every week to discuss different real-world topics.
 
 Chinese Corner meets every Thursday evening at 6:30 pm (CST) on Discord!
 
-<img src="/images/services/chinese-corner-halloween.png" alt="Halloween Chinese Corner" width="700"/>
+<img src="/images/services/chinese-corner-halloween.png" alt="Halloween Chinese Corner" id="div-desktop" width="700"/>
 
 
 <!-- /services/default.png -->
