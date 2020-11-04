@@ -20,7 +20,6 @@ Get to know other CLAID members at our social events!
  </span>
 
 <style>
-
 @media screen and (max-width: 800px) {
   #div-desktop {
     width: 100%;
@@ -47,9 +46,9 @@ Explore different aspects of Chinese culture at our cultural events!
  </span>
 
 - **Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber**
-    - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢)! Explore some major themes of the novel and enjoy a brief live performance, presented by members of CLAID. No prior knowledge of the novel needed! Join us in-person while socially distanced at **Bevier Hall, Rm 132** or online through **Zoom (info below)**. Please **RSVP** for this event [here]({% link _services/literature-event-rsvp.html %}).
+    - Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢)! Explore some major themes of the novel and enjoy a brief live performance, presented by members of CLAID. No prior knowledge of the novel needed! Join us in-person while socially distanced at **Bevier Hall, Rm 132** or online through **Zoom (info below)**. Please **RSVP** for this event [here]({% link _services/literature-event-rsvp.html %}) or [here](<https://docs.google.com/forms/d/e/1FAIpQLSfUvm1ANZ7xKeG5KLOe0inp76MxMc0wcAUuYZj8-VED2IqA9Q/viewform?>).
     
-    - Zoom link: <https://illinois.zoom.us/j/81257453898?pwd=bytueng1MGtQZkQvNCtrWDgyTDFwQT09>
+    - [Zoom link](<https://illinois.zoom.us/j/81257453898?pwd=bytueng1MGtQZkQvNCtrWDgyTDFwQT09>)
     - Meeting ID: 812 5745 3898
     - Password: CLAID
 

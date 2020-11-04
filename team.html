@@ -5,11 +5,16 @@ bodyClass: page-team-list
 ---
 <style type="text/css">
 
+@media screen and (max-width: 800px) {
+  #div-desktop-text {
+    padding-left:20px;
+    padding-right:20px;
+  }
+}
+
 #div-desktop {
   display: none;
 }
-
-
 
 @media screen and (min-width: 800px) {
   #div-mobile {
@@ -38,7 +43,7 @@ bodyClass: page-team-list
 <div class="intro">
   <div class="container">
     <div class="row">
-      <div class="mycol">
+      <div class="mycol" id="div-desktop-text">
         <h1>Meet The Board</h1>
         <p>
           We're students that are committed and passionate about building connections.
@@ -58,7 +63,7 @@ bodyClass: page-team-list
   </div>
 </div>
 
-<div class="container pb-6">
+<div class="container pb-6" id="div-desktop-text">
   <div class="row">
     {% for team in site.team %}
     <div class="col-12 col-md-6 mb-1">
