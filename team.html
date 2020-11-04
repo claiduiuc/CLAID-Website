@@ -16,18 +16,13 @@ bodyClass: page-team-list
 }
 
 @media screen and (min-width: 800px) {
-  #div-mobile {
-    display: none;
-  }
-  #div-desktop {
-    display: block;
-    width: 75%;
-    padding: 0px;
-    float: left;
-    margin:0px;
-  }
-}
-    
+  .mycol {
+  width: 50%;
+  padding: 0px;
+  float: right;
+  margin:0px;
+  } 
+}   
 
   .intro h1 { color: #db505e; font-size: 2.4rem; line-height: 1.2; font-family: "Comfortaa", Comfortaa, sans-serif, -apple-system; width: 70%; }
   @media (min-width: 576px) { .intro h1 { width: 70%; } }
@@ -54,7 +49,7 @@ bodyClass: page-team-list
         
       </div>
 
-      <div id="div-desktop-text">
+      <div id="div-desktop-text" class="mycol">
         <img alt="group photo" src="/images/team/group-photo.png" id="div-desktop"/>
       </div>
 
