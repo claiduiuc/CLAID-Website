@@ -22,7 +22,7 @@ Meet with other CLAID members every week to discuss different real-world topics.
 
 Chinese Corner meets every Thursday evening at 6:30 pm (CST) on Discord!
 
-<img src="/images/services/chinese-corner-halloween.png" alt="Halloween Chinese Corner" id="div-desktop" width="700"/>
+<img src="/images/services/chinese-corner-cafe.png" alt="Cafe Conversations Chinese Corner" id="div-desktop" width="700"/>
 
 
 <!-- /services/default.png -->
