@@ -57,4 +57,4 @@ Read and discuss one of China's most famous pieces of literature: Dream of the R
 
 **Friday December 4, 8pm CST: Traditional Chinese Calligraphy**
 
-Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! We plan to invite students from the Calligraphy club at Peking University over **Zoom** to do a live demonstration of Traditional Chinese Calligraphy using brushes, ink, and Xuan paper. **Pick up** your own calligraphy kit at our **Literature Event** (alternative date TBA) to follow the demonstrations and try calligraphy yourself!
+Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** to enjoy a live demonstration of Traditional Chinese Calligraphy using brushes, ink, and Xuan paper. **Pick up** your own calligraphy kit at our **Literature Event** (alternative date TBA) to follow the demonstrations and try calligraphy yourself!
