@@ -43,7 +43,7 @@ Explore different aspects of Chinese culture at our cultural events!
 
 #### <u>Upcoming Events</u>
 <p></p>
-**Friday November 13, 7pm CST: Chinese Literature: Dream of the Red Chamber**
+**Friday November 13, 7pm CST: Literature Event: Dream of the Red Chamber**
 
 Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢)! Explore some major themes of the novel and enjoy a brief live performance, presented by members of CLAID. No prior knowledge of the novel needed! Join us in-person while socially distanced at **Bevier Hall, Rm 132** or online through **Zoom (info below)**. Please **RSVP** for this event [here]({% link _services/literature-event-rsvp.html %}). You can also pick up your Calligraphy Kit here.
     
