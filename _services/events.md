@@ -24,6 +24,15 @@ Get to know other CLAID members at our social events!
 
 #### <u>Upcoming Events</u>
 <p></p>
+
+**November 20 - November 29: A Wish for a Wish**
+
+Make and receive small wishes from your fellow CLAIDers and help make their Thanksgiving wishes come true! You can write down your own wish(es) and the wish(es) that you can accomplish for others. Your goal is to accomplish someone else’s request, and it is encouraged that the number of wishes you fulfill for others is equivalent to the number of wishes you receive. The event will take place during the week of Thanksgiving. We hope this will spread some love and goodwill that can conclude everyone's 2020 on a better note! More information TBA!
+
+<img src="/images/services/a-wish-for-a-wish.png" id="div-desktop" alt="Study Session" width="400"/>
+
+<br>
+
 **Mon-Thurs 7-11pm: Study Session on Discord**
 
 Study with our Social Chair You Shen in our study-sesh voice channel on Discord! Get to know You, meet new friends, or find some study buddies.
@@ -43,6 +52,7 @@ Explore different aspects of Chinese culture at our cultural events!
 
 #### <u>Upcoming Events</u>
 <p></p>
+
 **Friday November 13, 7pm CST: Literature Event: Dream of the Red Chamber**
 
 Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢)! Explore some major themes of the novel and enjoy a brief live performance, presented by members of CLAID. No prior knowledge of the novel needed! Join us in-person while socially distanced at **Bevier Hall, Rm 132** or online through **Zoom (info below)**. Please **RSVP** for this event [here]({% link _services/literature-event-rsvp.html %}). You can also pick up your FREE Calligraphy Kit here.
