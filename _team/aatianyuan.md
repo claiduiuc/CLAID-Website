@@ -1,5 +1,5 @@
 ---
-title: 'Tianyuan'
+title: 'Tianyuan Wu'
 image: '/images/team/tianyuan.jpg'
 jobtitle: 'President'
 email: 'peter@test.com'

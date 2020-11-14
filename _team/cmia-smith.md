@@ -1,5 +1,5 @@
 ---
-title: 'Mia'
+title: 'Mia Smith'
 image: '/images/team/mia.jpg'
 jobtitle: 'Tutoring Branch'
 email: 'peter@test.com'
