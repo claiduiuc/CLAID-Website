@@ -53,18 +53,10 @@ Explore different aspects of Chinese culture at our cultural events!
 #### <u>Upcoming Events</u>
 <p></p>
 
-**Friday November 13, 7pm CST: Literature Event: Dream of the Red Chamber**
+**Friday December 4, 8pm CST: Traditional Chinese Calligraphy Workshop**
 
-Read and discuss one of China's most famous pieces of literature: Dream of the Red Chamber (紅樓夢)! Explore some major themes of the novel and enjoy a brief live performance, presented by members of CLAID. No prior knowledge of the novel needed! Join us in-person while socially distanced at **Bevier Hall, Rm 132** or online through **Zoom (info below)**. Please **RSVP** for this event [here]({% link _services/literature-event-rsvp.html %}). You can also pick up your FREE Calligraphy Kit here.
-    
-  - [Zoom link](<https://illinois.zoom.us/j/81257453898?pwd=bytueng1MGtQZkQvNCtrWDgyTDFwQT09>)
-  - Meeting ID: 812 5745 3898
-  - Password: CLAID
+Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** to enjoy a live demonstration using brushes, ink, and Xuan paper. **Pre-order** your own FREE calligraphy kit 
+[here]({% link _services/calligraphy-kit-pre-order.html %}) by **Wednesday, November 18** for pick-up on Thursday, November 19 (more details TBA), and you can follow the demonstrations and try calligraphy yourself! Kits paid for by the Student Cultural Programming Fee.
 
-  <img src="/images/services/Dream_of_the_Red_Chamber.png" id="div-desktop" alt="Dream of the Red Chamber" width="450"/>
-  
-  <br>
+<img src="/images/services/calligraphy_workshop_5.png" id="div-desktop" alt="Study Session" width="400"/>
 
-**Friday December 4, 8pm CST: Traditional Chinese Calligraphy**
-
-Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** to enjoy a live demonstration of Traditional Chinese Calligraphy using brushes, ink, and Xuan paper. **Pick up** your own FREE calligraphy kit at our **Literature Event** (alternative date TBA) to follow the demonstrations and try calligraphy yourself!
