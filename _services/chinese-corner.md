@@ -22,7 +22,9 @@ Meet with other CLAID members every week to discuss different real-world topics.
 
 Chinese Corner meets every Thursday evening at 6:30 pm (CST) on Discord!
 
-<img src="/images/services/chinese-corner-cafe.png" alt="Cafe Conversations Chinese Corner" id="div-desktop" width="700"/>
+No Chinese Corner from 11/15/2020 - 11/28/2020! Enjoy your Thanksgiving Break!
+
+<img src="/images/services/thanksgiving.png" alt="Happy Thanksgiving!" id="div-desktop" width="700"/>
 
 
 <!-- /services/default.png -->
