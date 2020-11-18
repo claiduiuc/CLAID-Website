@@ -27,7 +27,27 @@ Get to know other CLAID members at our social events!
 
 **November 20 - November 29: A Wish for a Wish**
 
-Make and receive small wishes from your fellow CLAIDers and help make their Thanksgiving wishes come true! You can write down your own wish(es) and the wish(es) that you can accomplish for others. Your goal is to accomplish someone else’s request, and it is encouraged that the number of wishes you fulfill for others is equivalent to the number of wishes you receive. The event will take place during the week of Thanksgiving. We hope this will spread some love and goodwill that can conclude everyone's 2020 on a better note! Check our **Discord** or **email** for more information!
+Make and receive small wishes from your fellow CLAIDers and help make their Thanksgiving wishes come true! You can write down your own wish(es) and the wish(es) that you can accomplish for others. Your goal is to accomplish someone else’s request, and it is encouraged that the number of wishes you fulfill for others is equivalent to the number of wishes you receive. The event will take place during the week of Thanksgiving. We hope this will spread some love and goodwill that can conclude everyone's 2020 on a better note! 
+
+Steps to participate:
+
+1. Open the excel sheet found on our **Discord** or **email**. Example wishes are on sheet 1, full wishlist on sheet 2.
+
+2. Select wish(s) from the sheet. If you want to claim a certain wish, write your name in the appropriate column and include your discord ID! (or wechat/snapchat ID if you prefer).
+
+3. Add a wish you would be willing to grant to the excel! Fill out the appropriate details~
+
+3. Reach out to your wish benefactor!
+
+4. Get your wish granted!
+
+5. Take a photo with your benefactor and send it to Tianyuan/You/Peter and post it on our FB/Discord
+
+6. Be on the lookout for someone contacting you for the wish you put on the excel.
+
+Please remain respectful towards everyone involved, and feel free to participate multiple times with different people! Please use common sense and follow COVID restrictions as necessary, don't make anyone uncomfortable. 
+
+Above all, have fun!
 
 <img src="/images/services/a-wish-for-a-wish.png" id="div-desktop" alt="A Wish for a Wish" width="400"/>
 
