@@ -75,8 +75,8 @@ Explore different aspects of Chinese culture at our cultural events!
 
 **Friday December 4, 8pm CST: Traditional Chinese Calligraphy Workshop**
 
-Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** to enjoy a live demonstration using brushes, ink, and Xuan paper. **Pre-order** your own FREE calligraphy kit 
-[here]({% link _services/calligraphy-kit-pre-order.html %}) by **Wednesday, November 18** for pick-up on Thursday, November 19 (more details TBA), and you can follow the demonstrations and try calligraphy yourself! Kits paid for by the Student Cultural Programming Fee.
+Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** to enjoy a live demonstration using brushes, ink, and Xuan paper. **Pre-order** your own calligraphy kit 
+[here]({% link _services/calligraphy-kit-pre-order.html %}) (FREE with shipping), and you can follow the demonstrations and try calligraphy yourself! Kits paid for by the Student Cultural Programming Fee.
 
 <img src="/images/services/calligraphy_workshop_5.png" id="div-desktop" alt="Study Session" width="400"/>
 
