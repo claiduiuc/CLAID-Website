@@ -75,8 +75,11 @@ Explore different aspects of Chinese culture at our cultural events!
 
 **Friday December 4, 8pm CST: Traditional Chinese Calligraphy Workshop**
 
-Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** to enjoy a live demonstration using brushes, ink, and Xuan paper. **Pre-order** your own calligraphy kit 
-[here]({% link _services/calligraphy-kit-pre-order.html %}) (FREE with shipping), and you can follow the demonstrations and try calligraphy yourself! Kits paid for by the Student Cultural Programming Fee.
+Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** (info below) to enjoy a live demonstration using brushes, ink, and Xuan paper. You can still **pre-order** your own calligraphy kit [here]({% link _services/calligraphy-kit-pre-order.html %}) (FREE with shipping), and you can follow the demonstrations and try calligraphy yourself! Kits paid for by the Student Cultural Programming Fee.
+
+- [Zoom] <https://illinois.zoom.us/j/81801548848?pwd=aHBqT1cxZkhIczZTbXR1SUluWm51QT09>
+- Meeting ID: 818 0154 8848
+- Password: CLAID
 
 <img src="/images/services/calligraphy_workshop_5.png" id="div-desktop" alt="Study Session" width="400"/>
 
