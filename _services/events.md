@@ -77,7 +77,7 @@ Explore different aspects of Chinese culture at our cultural events!
 
 Discover the history and learn how to write traditional Chinese Calligraphy with us from the comfort of your own home! Join us over **Zoom** (info below) to enjoy a live demonstration using brushes, ink, and Xuan paper. You can still **pre-order** your own calligraphy kit [here]({% link _services/calligraphy-kit-pre-order.html %}) (FREE with shipping), and you can follow the demonstrations and try calligraphy yourself! Kits paid for by the Student Cultural Programming Fee.
 
-- [Zoom] <https://illinois.zoom.us/j/81801548848?pwd=aHBqT1cxZkhIczZTbXR1SUluWm51QT09>
+- [Zoom link](<https://illinois.zoom.us/j/81801548848?pwd=aHBqT1cxZkhIczZTbXR1SUluWm51QT09>)
 - Meeting ID: 818 0154 8848
 - Password: CLAID
 
