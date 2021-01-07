@@ -22,9 +22,9 @@ Meet with other CLAID members every week to discuss different real-world topics.
 
 Chinese Corner meets every Thursday evening at 6:30 pm (CST) on Discord!
 
-No Chinese Corner from 11/15/2020 - 11/28/2020! Enjoy your Thanksgiving Break!
+No Chinese Corner until Spring 2021! Enjoy your winter break, and happy holidays!
 
-<img src="/images/services/thanksgiving.png" alt="Happy Thanksgiving!" id="div-desktop" width="700"/>
+<img src="/images/services/happy-holidays.png" alt="Happy Holidays!" id="div-desktop" width="700"/>
 
 
 <!-- /services/default.png -->
