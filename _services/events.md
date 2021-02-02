@@ -39,7 +39,7 @@ Explore different aspects of Chinese culture at our cultural events!
 - Chinese holiday celebrations
 - A Peek into China: Learn about the differences between cities/regions in China
 - Taste of China: Delve into China's diverse and unique cuisine
-    
+
     *...And more!*
 
 #### <u>Upcoming Events</u>
@@ -47,5 +47,6 @@ Explore different aspects of Chinese culture at our cultural events!
 
 **TBA: Cooking with CLAID**
 
-Learn how to make some simple and popular Chinese dishes with our upcoming cooking series over winter break! We will be posting cooking tutorials on our YouTube channel (coming soon!), as well as possibly hosting a livestream. Be sure to fill out our End-of-the-Semester Feedback Form (also coming soon) to choose which dishes you would like to see us make!
-
+Learn how to make some simple and popular Chinese dishes with our upcoming cooking series over winter break! We will be posting cooking tutorials on our YouTube channel (coming soon!), as well as possibly hosting a livestream.
+ Here is the
+<a href="https://forms.gle/7qwLwaGoVQwMcZ3YA">End-of-the-Semester Feedback Form</a>.
