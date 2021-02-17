@@ -10,7 +10,7 @@ image: "/services/default.png"
 }
 </style>
 
-Learn more about Chinese culture and meet new friends at our fun events!
+Learn more about Chinese culture and meet new friends at our fun events.
 
 ## __Social Events__
 

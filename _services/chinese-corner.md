@@ -10,7 +10,7 @@ image: 'C:\Users\GWC-CHC-07\.vscode\CLAID-Website\images\services\chinese_corner
   }
 </style>
 
-Bolster your Chinese conversational skills at our weekly language table!
+Bolster your Chinese conversational skills at our weekly language table.
 
 <img src="/images/services/chinese-corner.png" alt="chinese corner" id="div-desktop" width="500"/>
 
