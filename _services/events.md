@@ -45,8 +45,13 @@ Explore different aspects of Chinese culture at our cultural events!
 #### <u>Upcoming Events</u>
 <p></p>
 
-**TBA: Cooking with CLAID**
+**Lantern Festival & Chinese New Year**
 
-Learn how to make some simple and popular Chinese dishes with our upcoming cooking series over winter break! We will be posting cooking tutorials on our YouTube channel (coming soon!), as well as possibly hosting a livestream.
- Here is the
-<a href="https://forms.gle/7qwLwaGoVQwMcZ3YA">End-of-the-Semester Feedback Form</a>.
+Join us in-person to celebrate Chinese New Year and the Lantern Festival on Friday, February 26th at 7pm! Explore the customs and traditions of the two holidays with presentations, lantern riddle hunts, Kahoot games, and more!
+
+When: February 26th, 7:00PM CST
+Where: 132 Bevier Hall
+
+<img src="/images/services/Lantern.png" id="div-desktop" alt="Lantern" width="400"/>
+
+
