@@ -45,12 +45,9 @@ Explore different aspects of Chinese culture at our cultural events!
 #### <u>Upcoming Events</u>
 <p></p>
 
-**Lantern Festival & Chinese New Year**
+**Friday, February 26th, 7:00PM CST: Lantern Festival & Chinese New Year**
 
-Join us in-person to celebrate Chinese New Year and the Lantern Festival on Friday, February 26th at 7pm! Explore the customs and traditions of the two holidays with presentations, lantern riddle hunts, Kahoot games, and more!
-
-When: February 26th, 7:00PM CST
-Where: 132 Bevier Hall
+Join us in-person at **Bevier Hall, Rm 132** or **online** (more info TBA) to celebrate Chinese New Year and the Lantern Festival! Explore the customs and traditions of the two holidays with presentations, lantern riddle hunts, Kahoot games, and more!
 
 <img src="/images/services/Lantern.png" id="div-desktop" alt="Lantern" width="400"/>
 
