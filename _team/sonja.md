@@ -6,4 +6,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Sophomore majoring in Material Science and Engineering. Enjoys listening to music and playing with my 2 pet guinea pigs.
+Freshman in Political Science and Economics. Enjoys reading, swimming, art and listening exclusively to anime openings.
