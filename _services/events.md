@@ -10,7 +10,7 @@ image: "/services/default.png"
 }
 </style>
 
-Learn more about Chinese culture and meet new friends at our fun events.
+Learn more about Chinese culture and meet new friends at our fun events!
 
 ## __Social Events__
 
@@ -47,7 +47,11 @@ Explore different aspects of Chinese culture at our cultural events!
 
 **Friday, February 26th, 7:00PM CST: Lantern Festival & Chinese New Year**
 
-Join us in-person at **Bevier Hall, Rm 132** or **online** (more info TBA) to celebrate Chinese New Year and the Lantern Festival! Explore the customs and traditions of the two holidays with presentations, lantern riddle hunts, Kahoot games, and more!
+Join us in-person at **Bevier Hall, Rm 132** or online at **Gathertown** (more info below) to celebrate Chinese New Year and the Lantern Festival! Explore the customs and traditions of the two holidays with presentations, lantern riddle hunts, Kahoot games, and more! For those of you who come in person, we will also be giving out lantern-making kits and making the lanterns together. Please make sure that you get tested and wear a mask if you come in-person!
+
+[Gathertown link](https://gather.town/app/iEZt44jrNiPKEJ2y/LanternFestival)
+
+(If you don't know what Gathertown is or have never used it, don't worry, it's very easy to use! It's a virtual space where you can walk around and video call. All you have to do is go to the link above and follow the instructions onscreen to make a character and join the space. There will be a short tutorial on how to use it if you want to get yourself acquainted; otherwise, we'll be explaining what to do at the event.)
 
 <img src="/images/services/Lantern.png" id="div-desktop" alt="Lantern" width="400"/>
 
