@@ -3,7 +3,7 @@ title: 'Peer Tutoring Program'
 image: '/services/noun_591323.png'
 ---
 
-Work one-on-one with a tutor to strengthen your Chinese language skills.
+Work one-on-one with a tutor to strengthen your Chinese language skills!
 
 ## How it Works
 
