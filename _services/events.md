@@ -16,7 +16,8 @@ Learn more about Chinese culture and meet new friends at our fun events!
 
 
 **Sunday, March 21, 2021 at 7pm CT**
-We are officially collaborating wit the Go club for this event! Here's a link to their website which has several blog posts about fun facts and strategies: <a href="https://uiuc-go.github.io/">https://uiuc-go.github.io/</a>
+<br>
+We are officially collaborating with the Go club for this event! Here's a link to their website which has several blog posts about fun facts and strategies: <a href="https://uiuc-go.github.io/" target="_blank" rel="noopener noreferrer">https://uiuc-go.github.io/</a>
 <br>
 
 <img src="/images/services/claid_go_club.png" id="div-desktop" alt="Study Session" width="400"/>
