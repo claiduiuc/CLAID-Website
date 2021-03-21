@@ -37,9 +37,8 @@ Get to know other CLAID members at our social events!
 
 Study with our Social Chair You Shen in our study-sesh voice channel on Discord! Get to know You, meet new friends, or find some study buddies.
 <img src="/images/services/study-session.png" id="div-desktop" alt="Study Session" width="400"/>
-
-<br>
 -->
+<br>
 ## __Cultural Events__
 
 Explore different aspects of Chinese culture at our cultural events!
