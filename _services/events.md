@@ -14,6 +14,12 @@ Learn more about Chinese culture and meet new friends at our fun events!
 
 ## __Social Events__
 
+We are officially collaborating wit the Go club for this event! Here's a link to their website which has several blog posts about fun facts and strategies: <a href="https://uiuc-go.github.io/">https://uiuc-go.github.io/</a>
+<br>
+
+<img src="/images/services/claid_go_club.png" id="div-desktop" alt="Study Session" width="400"/>
+<br>
+<!--
 Get to know other CLAID members at our social events!
 
 - Study sessions
@@ -31,7 +37,7 @@ Study with our Social Chair You Shen in our study-sesh voice channel on Discord!
 <img src="/images/services/study-session.png" id="div-desktop" alt="Study Session" width="400"/>
 
 <br>
-
+-->
 ## __Cultural Events__
 
 Explore different aspects of Chinese culture at our cultural events!
