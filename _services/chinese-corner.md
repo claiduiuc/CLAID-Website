@@ -20,11 +20,11 @@ Meet with other CLAID members every week to discuss different real-world topics.
 
 ## Getting Started
 
-Chinese Corner meets every Thursday evening at 6:30 pm (CST) on Discord!
+Chinese Corner meets every week (formally at the Illini Union Basement)!
 
-No Chinese Corner until Spring 2021! Enjoy your winter break, and happy holidays!
+Time and place for Chinese Corner this semester is TBD...
 
-<img src="/images/services/happy-holidays.png" alt="Happy Holidays!" id="div-desktop" width="700"/>
+
 
 
 <!-- /services/default.png -->

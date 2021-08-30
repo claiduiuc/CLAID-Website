@@ -6,5 +6,5 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Sophomore majoring in health and minoring in informatics. Interests include sketching, learning ethnic recipes, and listening to rock bands.
+Junior majoring in health and minoring in informatics. Interests include sketching, learning ethnic recipes, and listening to rock bands.
 

@@ -6,4 +6,4 @@ email: 'sage@test.com'
 linkedinurl: ''
 ---
 
-Senior studying Computer Science + Linguistics. Enjoys learning languages, juggling, and origami.
+Senior studying Computer Science + Linguistics. Enjoys learning languages, juggling, and origami. <i> retired </i>
