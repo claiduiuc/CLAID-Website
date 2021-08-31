@@ -6,4 +6,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Sophemore in aerospace engineering. Loves airplanes and can stare at them for hours at the airport.
+Sophomore in aerospace engineering. Loves airplanes and can stare at them for hours at the airport.

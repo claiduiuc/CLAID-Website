@@ -6,5 +6,5 @@ email: 'sage@test.com'
 linkedinurl: ''
 ---
 
-Senior studying Econometrics and Statistics. Enjoys traveling and scuba diving. 
-Just say “Hey you, you” and you is always here!
+Graduated senior, studied Econometrics and Statistics. Enjoys traveling and scuba diving. 
+Just say “Hey you, you” and you is always here! <i> Alumni <i>

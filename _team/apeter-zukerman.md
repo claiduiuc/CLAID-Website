@@ -1,9 +1,9 @@
 ---
 title: 'Peter Zukerman'
 image: '/images/team/peter.jpg'
-jobtitle: 'Tutoring Chair'
+jobtitle: 'Tutoring Chair (2020)'
 email: 'sage@test.com'
 linkedinurl: ''
 ---
 
-Senior studying Computer Science + Linguistics. Enjoys learning languages, juggling, and origami. <i> retired </i>
+Graduated senior, studied Computer Science + Linguistics. Enjoys learning languages, juggling, and origami. <i> Alumni</i>

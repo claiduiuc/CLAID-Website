@@ -6,4 +6,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Sophemore unassigned at Gies. Interested in history, culture, anime, and more.
+Sophomore unassigned at Gies. Interested in history, culture, anime, and more.
