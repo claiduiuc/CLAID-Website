@@ -1,6 +1,8 @@
 ---
 title: 'Mia Smith'
 image: '/images/team/mia.jpg'
+alumni: 'no'
+active: 'yes'
 jobtitle: 'Tutoring Branch'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'

@@ -1,6 +1,8 @@
 ---
 title: 'Wenqu (Charlie) Zhang'
 image: '/images/team/charlieZ.jpg'
+alumni: 'no'
+active: 'yes'
 jobtitle: 'Tutoring and Cultural Branch'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'

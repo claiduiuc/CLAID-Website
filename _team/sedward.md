@@ -1,6 +1,8 @@
 ---
 title: 'Edward Ma'
 image: '/images/team/edward.jpg'
+alumni: 'no'
+active: 'yes'
 jobtitle: 'Cultural Branch'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'

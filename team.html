@@ -60,6 +60,7 @@ bodyClass: page-team-list
 <div class="container pb-6" id="div-desktop-text">
   <div class="row">
     {% for team in site.team %}
+    {% if team.active == "yes" %}
     <div class="col-12 col-md-6 mb-1">
       <div class="team team-summary">
         {% if team.image %}
@@ -78,6 +79,44 @@ bodyClass: page-team-list
         <div class="team-content">{{ team.content }}</div>
       </div>
     </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="mycol" id="div-desktop-text">
+        <h3>Alumni</h3>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6" id="div-desktop-text">
+  <div class="row">
+    {% for team in site.team %}
+    {% if team.alumni == "yes"%}
+    <div class="col-12 col-md-6 mb-1">
+      <div class="team team-summary">
+        {% if team.image %}
+        <div class="team-image">
+          <img
+            alt="{{ team.title }} logo"
+            class="img-fluid mb-2"
+            src="{{site.baseurl}}{{ team.image }}"
+          />
+        </div>
+        {% endif %}
+        <div class="team-meta">
+          <h2 class="team-name">{{ team.title }}</h2>
+          <h5 class="team-description">{{ team.jobtitle }}</h5>
+        </div>
+        <div class="team-content">{{ team.content }}</div>
+      </div>
+    </div>
+    {% endif %}
     {% endfor %}
   </div>
 </div>

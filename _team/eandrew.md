@@ -1,6 +1,8 @@
 ---
 title: 'Andrew Pang'
 image: '/images/team/andrew.jpg'
+alumni: 'no'
+active: 'yes'
 jobtitle: 'Tutoring and Cultural Branch'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
