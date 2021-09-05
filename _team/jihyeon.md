@@ -3,7 +3,7 @@ title: 'Jihyeon'
 image: '/images/team/jihyeon.jpg'
 alumni: 'no'
 active: 'yes'
-jobtitle: 'Social Branch'
+jobtitle: 'Social & Cultural Branch'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
