@@ -3,7 +3,7 @@ title: 'Andrew Pang'
 image: '/images/team/andrew.jpg'
 alumni: 'no'
 active: 'yes'
-jobtitle: 'Tutoring and Cultural Branch'
+jobtitle: 'Social Branch Co-Chair'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
