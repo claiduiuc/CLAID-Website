@@ -8,4 +8,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Junior majoring in Environmental Science, likes to cook and play sports.
+Junior majoring in Environmental Science, likes to cook and play sports
