@@ -3,7 +3,7 @@ title: 'Phil Liang'
 image: '/images/team/phil.png'
 alumni: 'no'
 active: 'yes'
-jobtitle: 'Tutoring Branch'
+jobtitle: 'Cultural Branch'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
