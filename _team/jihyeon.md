@@ -1,9 +1,9 @@
 ---
-title: 'Jihyeon'
+title: 'Jihyeon Park'
 image: '/images/team/jihyeon.jpg'
 alumni: 'no'
 active: 'yes'
-jobtitle: 'Social & Cultural Branch'
+jobtitle: 'Cultural Branch'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---

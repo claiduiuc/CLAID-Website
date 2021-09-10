@@ -8,4 +8,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Senior majoring in painting and on the pre-med track. Does a little bit of everything, loves food, boxing, and puns. 
+Senior majoring in painting and on the pre-med track. Does a little bit of everything, loves food, boxing, and puns.

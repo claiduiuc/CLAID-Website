@@ -18,6 +18,5 @@ Material covered in the sessions is entirely up to you and your tutor! Past pair
 
 To become a learner or a tutor, click on the corresponding link below to fill out an application
 
-- [Learner Application](https://forms.gle/oQsiXnCatZdCxH2LA)
-- [Tutor Application](https://forms.gle/UBDoZFVd7EfVP9ws8)
-
+- [Learner Application](https://forms.gle/oSZhun58wpwxMSRy7)
+- [Tutor Application](https://forms.gle/kP7mMvoVQkZj888G8)
