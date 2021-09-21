@@ -8,4 +8,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Ph.D. student in philosphy. Likes learning about new things
+Ph.D. student in philosphy. Likes learning about new things.
