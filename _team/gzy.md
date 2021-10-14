@@ -1,5 +1,5 @@
 ---
-title: 'Zheng Yuan (ZY)'
+title: 'Zheng Yuan (毛政淵)'
 image: '/images/team/zy.jpg'
 alumni: 'no'
 active: 'yes'
