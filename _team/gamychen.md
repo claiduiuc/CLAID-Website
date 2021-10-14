@@ -1,5 +1,5 @@
 ---
-title: 'Amy Chen (陈子嫣)'
+title: 'Amy Chen'
 image: '/images/team/amy.jpg'
 alumni: 'no'
 active: 'yes'

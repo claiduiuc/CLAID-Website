@@ -1,5 +1,5 @@
 ---
-title: 'Janice Jiang (蒋桢妮)'
+title: 'Janice Jiang'
 image: '/images/team/janice.jpg'
 alumni: 'no'
 active: 'yes'
