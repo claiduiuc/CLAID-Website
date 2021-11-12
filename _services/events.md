@@ -12,7 +12,26 @@ image: "/services/default.png"
 
 Learn more about Chinese culture and meet new friends at our fun events!
 
-## __Social Events__
+## __<u>Upcoming Events</u>__
+<p></p>
+
+**Friday, November 12th, 7:00PM Chinese Calligraphy Workshop**
+
+<img src="/images/services/CLAID_Calligraphy_workshop.png" id="div-desktop" alt="CLAID_Calligraphy_workshop" width="400">
+
+We're having a Chinese Calligraphy Workshop in **Bevier Hall Rm 132** We will give a crash course on the history and different script styles. Then, you will have a chance to practice with your own FREE calligraphy kit paid for by the Student Cultural Programming Fee!
+
+Please [RSVP]({% link _services/calligraphy-kit-pre-order.html %}) to reserve your spot and a calligraphy kit.
+
+**November Bake Sale 11/8-17th**
+
+<img src="/images/services/bakesale11:7.png" id="div-desktop" alt="bakesale" width="400">
+
+We will be holding a 2 week long bake sale to fundraise for future club events. Each week a new menu is released so make sure to follow CLAID on instagram @claiduiuc for most recent updates or check back on this page! Click this [FORM]({% link _services/bake-sale-11-7.html %})if you wish to order!
+
+We accept cash and Venmo. All cash payments will be made at the door when you receive your order. Delivery is $3 within the Champaign-Urbana area and the pickup location will be at a board member's apartment. Tips and donations are appreciated!
+
+#### __Social Events__
 
 Have fun and meet new people!
 
@@ -22,7 +41,7 @@ Have fun and meet new people!
 
 
 <br>
-## __Cultural Events__
+#### __Cultural Events__
 
 Explore different aspects of Chinese culture at our cultural events!
 
@@ -31,15 +50,3 @@ Explore different aspects of Chinese culture at our cultural events!
 - Taste of China: Delve into China's diverse and unique cuisine
 
     *...And more!*
-
-#### <u>Upcoming Events</u>
-<p></p>
-
-**Friday, September 17th, 7:00PM CST: Mid-Autumn Festival**
-
-Join us at **Bevier Hall, Room 132** in celebrating the Mid-Autumn Festival, one of the most important Chinese festivals! Come play a round of Jeopardy while learning about the history of the festival, how it's celebrated regionally, and all the different kinds of mooncakes possible. We are selling pre-packaged mooncakes for pickup and you can [PREORDER]({% link _services/mooncake-preorder.html %}) some mooncakes to pick up at the event. The proceeds from the mooncake preorder will go to support future CLAID events! Please [RSVP]({% link _services/midautumn-rsvp.html %}) so we know who's coming. 
-
-<img src="/images/services/midautumn-festival.png" id="div-desktop" alt="Mid-Autumn Festival" width="400">
-
-
-
