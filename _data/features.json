@@ -12,8 +12,8 @@
     "url" : "services/chinese-corner"
   },
   {
-    "title": "Social and Cultural Events",
-    "description": "Join our fun cultural meetings and learn something new!",
+    "title": "Social & Cultural Events",
+    "description": "Meet new people and learn about Chinese culture, history, and more!",
     "image": "images/features/culture.png",
     "url" : "services/events"
   }
