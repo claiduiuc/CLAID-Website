@@ -15,7 +15,7 @@ Learn more about Chinese culture and meet new friends at our fun events!
 ## __<u>Upcoming Events</u>__
 <p></p>
 
-#####**Friday, November 12th, 7:00PM Chinese Calligraphy Workshop**
+##### __**Friday, November 12th, 7:00PM Chinese Calligraphy Workshop**__
 
 <img src="/images/services/CLAID_Calligraphy_workshop.png" id="div-desktop" alt="CLAID_Calligraphy_workshop" width="400">
 
@@ -23,7 +23,7 @@ We're having a Chinese Calligraphy Workshop in **Bevier Hall Rm 132** We will gi
 
 Please [RSVP]({% link _services/calligraphy-kit-pre-order.html %}) to reserve your spot and a calligraphy kit.
 
-#####**November Bake Sale 11/8-17th**
+##### __**November Bake Sale 11/8-17th**__
 
 <img src="/images/services/bakesale11:7.png" id="div-desktop" alt="bakesale" width="400">
 
@@ -31,6 +31,7 @@ We will be holding a 2 week long bake sale to fundraise for future club events. 
 
 We accept cash and Venmo. All cash payments will be made at the door when you receive your order. Delivery is $3 within the Champaign-Urbana area and the pickup location will be at a board member's apartment. Tips and donations are appreciated!
 
+<br>
 #### __Social Events__
 
 Have fun and meet new people!
@@ -39,8 +40,6 @@ Have fun and meet new people!
 - Movie nights
 - Boba
 
-
-<br>
 #### __Cultural Events__
 
 Explore different aspects of Chinese culture at our cultural events!
