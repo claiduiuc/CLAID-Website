@@ -15,7 +15,7 @@ Learn more about Chinese culture and meet new friends at our fun events!
 ## __<u>Upcoming Events</u>__
 <p></p>
 
-**Friday, November 12th, 7:00PM Chinese Calligraphy Workshop**
+#####**Friday, November 12th, 7:00PM Chinese Calligraphy Workshop**
 
 <img src="/images/services/CLAID_Calligraphy_workshop.png" id="div-desktop" alt="CLAID_Calligraphy_workshop" width="400">
 
@@ -23,7 +23,7 @@ We're having a Chinese Calligraphy Workshop in **Bevier Hall Rm 132** We will gi
 
 Please [RSVP]({% link _services/calligraphy-kit-pre-order.html %}) to reserve your spot and a calligraphy kit.
 
-**November Bake Sale 11/8-17th**
+#####**November Bake Sale 11/8-17th**
 
 <img src="/images/services/bakesale11:7.png" id="div-desktop" alt="bakesale" width="400">
 
