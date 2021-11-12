@@ -28,7 +28,7 @@ Please [RSVP]({% link _services/calligraphy-kit-pre-order.html %}) to reserve yo
 
 <img src="/images/services/bakesale11:7.png" id="div-desktop" alt="bakesale" width="400">
 
-We will be holding a 2 week long bake sale to fundraise for future club events. Each week a new menu is released so make sure to follow CLAID on instagram @claiduiuc for most recent updates or check back on this page! Click this [FORM]({% link _services/bake-sale-11-7.html %})if you wish to order!
+We will be holding a 2 week long bake sale to fundraise for future club events. Each week a new menu is released so make sure to follow CLAID on instagram @claiduiuc for most recent updates or check back on this page! Click this [FORM]({% link _services/bake-sale-11-7.html %}) if you wish to order!
 
 We accept cash and Venmo. All cash payments will be made at the door when you receive your order. Delivery is $3 within the Champaign-Urbana area and the pickup location will be at a board member's apartment. Tips and donations are appreciated!
 
