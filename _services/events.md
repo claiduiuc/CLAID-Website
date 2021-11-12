@@ -17,7 +17,7 @@ Learn more about Chinese culture and meet new friends at our fun events!
 
 ##### __Friday, November 12th, 7:00PM Chinese Calligraphy Workshop__
 
-<img src="/images/services/CLAID_Calligraphy_workshop.png" id="div-desktop" alt="CLAID_Calligraphy_workshop" width="400">
+<img src="/images/services/CLAID_Calligraphy_workshop.png" id="div-desktop" alt="CLAID_Calligraphy_workshop" width="600">
 
 We're having a Chinese Calligraphy Workshop in **Bevier Hall Rm 132** We will give a crash course on the history and different script styles. Then, you will have a chance to practice with your own FREE calligraphy kit paid for by the Student Cultural Programming Fee!
 
