@@ -1,5 +1,5 @@
 ---
-title: 'Zheng Yuan'
+title: 'Zheng Yuan Mor'
 image: '/images/team/zy.jpg'
 alumni: 'no'
 active: 'yes'
