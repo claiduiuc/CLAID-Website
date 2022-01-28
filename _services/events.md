@@ -19,7 +19,8 @@ Learn more about Chinese culture and meet new friends at our fun events!
 
 Come celebrate Chinese New Year with us! More information to be announced!
 
-<br>
+<hr style="border:2px solid gray">
+
 #### __Social Events__
 
 Have fun and meet new people!
