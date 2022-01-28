@@ -3,7 +3,7 @@ title: 'Zheng Yuan Mor'
 image: '/images/team/zy.jpg'
 alumni: 'no'
 active: 'yes'
-jobtitle: 'Social + Cultural Branch'
+jobtitle: 'Social Chair'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
