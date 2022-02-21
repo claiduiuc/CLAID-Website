@@ -15,9 +15,11 @@ Learn more about Chinese culture and meet new friends at our fun events!
 ## __<u>Upcoming Events</u>__
 <p></p>
 
-##### __Chinese New Year: TBA__
+##### __Friday, February 28th, 6PM: Tangyuan-Making Event__
 
-Come celebrate Chinese New Year with us! More information to be announced!
+Come celebrate a (belated) Lantern Festival with us on **Friday, February 28 at 6pm in La Casa Cultural**! Join us as we teach you how to make this delicious traditional treat, while also making lanterns and playing games! The event is $3/person, please make sure to [RSVP here](https://forms.gle/zG2eKTXztYwJHkmu7) by **February 24th**. We hope to see you there!
+
+<img src="/images/services/Tangyuan_event.png" id="div-desktop" alt="Tanyuan-Making Event" width="600">
 
 <hr style="border:2px solid gray">
 
