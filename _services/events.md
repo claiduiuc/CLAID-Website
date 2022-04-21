@@ -21,7 +21,7 @@ Celebrate the arrival of spring with some fresh baked goods made by our own CLAI
 
 <img src="/images/services/bakesale11.png" alt="Bake Sale Week 1 Menu (pt 1)" id="div-desktop" width="500"/>
 <img src="/images/services/bakesale12.png" alt="Bake Sale Week 1 Menu (pt 2)" id="div-desktop" width="500"/>
-=====
+
 
 <hr style="border:2px solid gray">
 
