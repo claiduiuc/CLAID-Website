@@ -15,9 +15,12 @@ Learn more about Chinese culture and meet new friends at our fun events!
 ## __<u>Upcoming Events</u>__
 <p></p>
 
-##### __Chinese New Year: TBA__
+##### __CLAID's Spring Bake Sale: April 17 - April 30__
 
-Come celebrate Chinese New Year with us! More information to be announced!
+Celebrate the arrival of spring with some fresh baked goods made by our own CLAID members! The bake sale will last 2 weeks, with a new menu updated each week; be sure to keep yourself updated on the goods so you don't miss out! This week's bake sale [pre-order form](https://forms.gle/ocuNLcYUtEyCdXhT6) will close April 22 at noon! Follow @claiduiuc for the newest updates on menu items.
+
+<img src="/images/services/bakesale1.png" alt="Bake Sale Week 1 Menu (pt 1)" id="div-desktop" width="500"/>
+<img src="/images/services/bakesale12.png" alt="Bake Sale Week 1 Menu (pt 2)" id="div-desktop" width="500"/>
 
 <hr style="border:2px solid gray">
 
