@@ -28,11 +28,11 @@ Celebrate the arrival of spring with some fresh baked goods made by our own CLAI
 
 #### __Social Events__
 
-Have fun and meet new people!
+Have fun and meet new people at our social events!
 
 - Game nights
 - Movie nights
-- Boba
+- Boba Socials
 
 #### __Cultural Events__
 
