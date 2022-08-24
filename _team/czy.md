@@ -8,4 +8,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Sophmore pre-law majoring in political science and minoring in informatics. Loves sleeping.
+Junior pre-law majoring in political science and minoring in informatics. Loves sleeping.

@@ -8,4 +8,4 @@ email: 'sage@test.com'
 linkedinurl: ''
 ---
 
-Junior double majoring in Computer Science and Flute Performance. Enjoys reading and Broadway musicals.
+Senior double majoring in Computer Science and Flute Performance. Enjoys reading and Broadway musicals.

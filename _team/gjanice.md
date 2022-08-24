@@ -8,4 +8,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Freshman majoring in accountancy. Loves watching Chinese dramas and Douyin videos.
+Sophomore majoring in accountancy. Loves watching Chinese dramas and Douyin videos.

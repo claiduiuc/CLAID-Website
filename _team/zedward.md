@@ -1,9 +1,9 @@
 ---
-title: 'Frank Lee'
-image: '/images/team/frank.jpg'
+title: 'Edward Ma'
+image: '/images/team/edward.jpg'
 alumni: 'yes'
 active: 'no'
-jobtitle: 'Tutoring Branch'
+jobtitle: 'Tutoring Chair (2021)'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---

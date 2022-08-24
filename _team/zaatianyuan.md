@@ -1,9 +1,9 @@
 ---
-title: 'Frank Lee'
-image: '/images/team/frank.jpg'
+title: 'Tianyuan Wu'
+image: '/images/team/tianyuan.jpg'
 alumni: 'yes'
 active: 'no'
-jobtitle: 'Tutoring Branch'
+jobtitle: 'President (2021)'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
