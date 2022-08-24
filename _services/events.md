@@ -19,6 +19,8 @@ Learn more about Chinese culture and meet new friends at our fun events!
 
 Welcome everyone to CLAID! Join us for our general Info Session **THIS Thursday, 8/25, 6 PM** at **Gregory Hall, room 321**. We will be going more in depth about our offerings, and will have opportunities to meet the board and ask any questions! If you will not be able to attend, we will also be releasing information on our social media platforms, and on this website.
 
+<img src="/images/services/info-session-2022.png" alt="Info Session" id="div-desktop" width="500"/>
+
 ---
 <br>
 
