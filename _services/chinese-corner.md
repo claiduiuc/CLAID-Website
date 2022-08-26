@@ -22,7 +22,7 @@ Meet with other CLAID members every week to discuss different real-world topics.
 
 Chinese Corner meets every week (formally at the Illini Union Basement)!
 
-Time and place for Chinese Corner this semester is TBD...
+Our first Chinese Corner of the semester is NEXT TUESDAY, 8/30 from 7-9 PM! We hope to see you there!
 
 
 
