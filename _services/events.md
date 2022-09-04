@@ -17,7 +17,7 @@ Learn more about Chinese culture and meet new friends at our fun events!
 
 ##### __Midautumn Festival: Friday, September 9, 6:00pm__
 
-Come and celebrate the Mid-Autumn Festival, one of the most important Chinese festivals, for our first event of the year! Join us on **Friday, September 9 at 6:00pm in La Casa Cultural**. We'll learn about the history of this holiday and enjoy an evening filled with fun, friends, and FREE food (mooncakes, of course!). Please RSVP [here](_services\midautumn-rsvp.html) so we know who to expect:
+Come and celebrate the Mid-Autumn Festival, one of the most important Chinese festivals, for our first event of the year! Join us on **Friday, September 9 at 6:00pm in La Casa Cultural**. We'll learn about the history of this holiday and enjoy an evening filled with fun, friends, and FREE food (mooncakes, of course!). Please RSVP [here]({% link _services/midautumn-rsvp.html %}) so we know who to expect:
 
 <img src="/images/services/midautumn-2022.png" alt="Midautumn Festival" id="div-desktop" width="500"/>
 
