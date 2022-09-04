@@ -15,11 +15,11 @@ Learn more about Chinese culture and meet new friends at our fun events!
 ## __<u>Upcoming Events</u>__
 <p></p>
 
-##### __Info Session: Thursday, August 25, 6:00pm__
+##### __Midautumn Festival: Friday, September 9, 6:00pm__
 
-Welcome everyone to CLAID! Join us for our general Info Session **THIS Thursday, 8/25, 6 PM** at **Gregory Hall, room 321**. We will be going more in depth about our offerings, and will have opportunities to meet the board and ask any questions! If you will not be able to attend, we will also be releasing information on our social media platforms, and on this website.
+Come and celebrate the Mid-Autumn Festival, one of the most important Chinese festivals, for our first event of the year! Join us on **Friday, September 9 at 6:00pm in La Casa Cultural**. We'll learn about the history of this holiday and enjoy an evening filled with fun, friends, and FREE food (mooncakes, of course!). Please RSVP [here](_services\midautumn-rsvp.html) so we know who to expect:
 
-<img src="/images/services/info-session-2022.png" alt="Info Session" id="div-desktop" width="500"/>
+<img src="/images/services/midautumn-2022.png" alt="Midautumn Festival" id="div-desktop" width="500"/>
 
 ---
 <br>
