@@ -29,7 +29,6 @@ GEM
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     ffi (1.10.0)
-    ffi (1.10.0-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
     github-pages (196)
@@ -245,6 +244,7 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     unicode-display_width (1.4.1)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -253,6 +253,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-environment-variables
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.3.22
