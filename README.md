@@ -37,6 +37,14 @@ The most common page you'll be editing is the Events page. This will be done in 
 
 You may notice that the main four pages don't have .md files, but rather are written in html. To edit these pages, you will have to edit those html files, which means you'll be writing in html rather than md. Don't worry, Google also has lots of resources for html. You will probably never have to touch Home, Join Us, or Connect. To open/close board applications, edit the team.html file. You may also need to update the application form, which can be found in _team/board-applications.html. Same thing with the tutor and learner applications, which can be found under _services\tutor-application.html and _services\learner-application.html respectively.
 
+**VERY IMPORTANT**
+PLEASE familiarize yourself with basic Git commands before editing this code. The main things you'll need are:
+    - git pull
+    - git push
+    - git add
+    - git commit
+If you don't mess up, these should be the only git commands you'll need. PLEASE PLEASE PLEASE do a git pull before editing or committing any code.
+
 ## Other Questions
 If you have any other questions that can't be solved by Google and it's at or before 2024, contact me (Annie) on Discord (sugaronsnow#4950). Otherwise, uhhh look on Google harder I guess?
 
