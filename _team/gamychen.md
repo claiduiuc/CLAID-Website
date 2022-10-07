@@ -8,4 +8,4 @@ email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Junior majoring in actuarial science and economics. Loves baking and cooking for friends.
+Junior majoring in Actuarial Science and Economics with a minor in Music. Love to make and eat food with friends.
