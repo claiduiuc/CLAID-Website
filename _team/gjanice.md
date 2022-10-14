@@ -1,11 +1,12 @@
 ---
 title: 'Janice Jiang'
-image: '/images/team/janice.jpg'
+image: '/images/team/janiceUpdated.PNG'
 alumni: 'no'
 active: 'yes'
-jobtitle: 'Tutoring Branch'
+jobtitle: 'Tutoring Chair'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
 
-Sophomore majoring in accountancy. Loves watching Chinese dramas and Douyin videos.
+I'm a sophomore majoring in accounting and I love to eat! I also enjoy watching Douyin videos and listening to C-pop.
+
